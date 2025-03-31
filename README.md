@@ -37,8 +37,8 @@ A modern web application to track your portfolio with real-time market data, man
 
 1. **Setup Environment**  
 ```bash
-git clone https://github.com/yourusername/stock-portfolio-tracker.git
-cd stock-portfolio-tracker
+git clone https://github.com/Sankalpkarn/Stock-Web-APP.git
+cd Stock-Web-APP
 pipenv install
 pipenv shell
 ```
@@ -63,7 +63,7 @@ flask run
 Open `http://localhost:5000` in your browser  
 
 ## Support  
-For issues or feature requests, please open an issue on our [GitHub repository](https://github.com/yourusername/stock-portfolio-tracker/issues).  
+For issues or feature requests, please open an issue on our [GitHub repository](https://github.com/Sankalpkarn/Stock-Web-APP/issues).  
 
 *Note: This application uses simulated trading and market data for educational purposes only.*
 *Also it might have some bugs*
